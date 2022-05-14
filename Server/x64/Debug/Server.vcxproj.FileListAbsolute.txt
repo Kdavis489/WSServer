@@ -1,0 +1,2 @@
+C:\Users\waylo\OneDrive\Desktop\CPP Projects\Server\x64\Debug\Server.exe
+C:\Users\waylo\OneDrive\Desktop\CPP Projects\MSE\Server\x64\Debug\Server.exe
